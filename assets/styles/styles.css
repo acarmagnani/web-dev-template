@@ -1,0 +1,10 @@
+@import url(var.css);
+
+/* ARROWS */
+
+.top-right-arrow::after {
+    content: "\2197 \FE0E";
+}
+.top-arrow::after {
+    content: "\2191 \FE0E";
+}
